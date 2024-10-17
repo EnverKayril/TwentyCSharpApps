@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_AdonetCustomerProject", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-EntityFramewordDbFirstProductProject", "02-EntityFramewordDbFirstProductProject\02-EntityFramewordDbFirstProductProject.csproj", "{0970834F-DB58-43D5-BC50-D94E21DE51B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_EntityFrameworkStatisticsProject", "03_EntityFrameworkStatisticsProject\03_EntityFrameworkStatisticsProject.csproj", "{BBAC17A5-889F-489D-ACA4-27348E71A359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0970834F-DB58-43D5-BC50-D94E21DE51B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0970834F-DB58-43D5-BC50-D94E21DE51B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0970834F-DB58-43D5-BC50-D94E21DE51B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAC17A5-889F-489D-ACA4-27348E71A359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAC17A5-889F-489D-ACA4-27348E71A359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAC17A5-889F-489D-ACA4-27348E71A359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAC17A5-889F-489D-ACA4-27348E71A359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
