@@ -13,9 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_DapperNorthwind", "04_Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_ApiWeather", "05_ApiWeather\05_ApiWeather.csproj", "{6A2DB8ED-4767-47DC-B2B2-81DE231FE476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ApiWeatherConsome", "07_ApiWeatherConsome\07_ApiWeatherConsome.csproj", "{F77E9120-400E-4B9B-AEE1-F5E79E5F79F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_ApiWeatherConsome", "07_ApiWeatherConsome\07_ApiWeatherConsome.csproj", "{F77E9120-400E-4B9B-AEE1-F5E79E5F79F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_RapidApiCurrency", "08_RapidApiCurrency\08_RapidApiCurrency.csproj", "{C46A30F7-8F98-414E-95DA-11363FBD58CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-MongoDbOrder", "09-MongoDbOrder\09-MongoDbOrder.csproj", "{B7F5C2FC-1E7C-42A9-A0B1-3800FEE2DCDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C46A30F7-8F98-414E-95DA-11363FBD58CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C46A30F7-8F98-414E-95DA-11363FBD58CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C46A30F7-8F98-414E-95DA-11363FBD58CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F5C2FC-1E7C-42A9-A0B1-3800FEE2DCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F5C2FC-1E7C-42A9-A0B1-3800FEE2DCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F5C2FC-1E7C-42A9-A0B1-3800FEE2DCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F5C2FC-1E7C-42A9-A0B1-3800FEE2DCDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
